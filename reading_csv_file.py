@@ -24,4 +24,3 @@ with open('example1.csv', 'r') as file:
 # - Displaying the output using for loop
     for i in sample_file2:
         print(i[0])
-    
